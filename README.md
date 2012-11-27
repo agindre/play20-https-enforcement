@@ -25,3 +25,5 @@ Example:
 	}
 
 You can find another example in src/scala/controller/SampleController.scala.
+
+To create this code, I follow the advices of this thread : https://groups.google.com/forum/?fromgroups=#!topic/play-framework/11zbMtNI3A8/discussion
